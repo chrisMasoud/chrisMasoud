@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=swift,react,js,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,react,js,html,css,kotlin,firebase,aws)](https://skillicons.dev)
 <br/>
 
 ### Socials
